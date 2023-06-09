@@ -1,0 +1,4 @@
+name: ZAU
+version: '${project.version}'
+main: live.soupsy.zau.ZAU
+api-version: 1.20
